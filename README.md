@@ -1,12 +1,17 @@
-# Radix Workshop - Example 1 (WWW & Echo)
+# Radix oAuth2 proxy example
+(Forked from Workshop - Example 1 (WWW & Echo))
 
-Purpose - a simple two module app. The public front-end (www) will respond to requests, request data from the non-public echo module - and echo the data back to the requestor. All magic!
- 
+Purpose - a simple two module app with a oauth2 proxy in front
+
 ## Content
 
 - ```echo``` contains the echo module
 - ```www``` contains the www front-end
-- ```docs``` contains the workshop script ([link](./docs/workshop.md))
+- ```oauth-proxy``` contains the proxy
+
+## TODO
+
+Set-up, ad config ++, Radix config
 
 ## A conceptual overview of the application.
 
