@@ -62,7 +62,7 @@ spec:
           variables:
             PORT: 8081
             NODE_ENV: "production"
-          monitoring: true
+          monitoring: false
           resources:
             requests:
               memory: "42Mi"

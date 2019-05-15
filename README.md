@@ -9,10 +9,6 @@ Purpose - a simple two module app with a oauth2 proxy in front
 - ```www``` contains the www front-end
 - ```oauth-proxy``` contains the proxy
 
-## TODO
-
-Set-up, ad config ++, Radix config
-
 ## A conceptual overview of the application.
 
 ![Conseptual diagram](./docs/smalldiagram.png) 
