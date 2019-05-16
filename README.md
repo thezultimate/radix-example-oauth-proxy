@@ -5,9 +5,9 @@ Purpose - a simple two module app with a oauth2 proxy in front
 
 ## Content
 
-- ```echo``` contains the echo module
-- ```www``` contains the www front-end
-- [oauth-proxy](./oauth-proxy)contains the proxy
+- [echo](./echo) contains the echo module
+- [www](./www) contains the www front-end
+- [oauth-proxy](./oauth-proxy) contains the OAuth proxy
 
 ## A conceptual overview of the application.
 
