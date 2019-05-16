@@ -1,5 +1,5 @@
 # Radix oAuth2 proxy example
-(Forked from Workshop - Example 1 (WWW & Echo))
+(Based on[radix-example-workshop-1](https://github.com/equinor/radix-example-workshop-1))
 
 Purpose - a simple two module app with a oauth2 proxy in front
 
@@ -7,7 +7,7 @@ Purpose - a simple two module app with a oauth2 proxy in front
 
 - ```echo``` contains the echo module
 - ```www``` contains the www front-end
-- ```oauth-proxy``` contains the proxy
+- [oauth-proxy](./oauth-proxy)contains the proxy
 
 ## A conceptual overview of the application.
 
