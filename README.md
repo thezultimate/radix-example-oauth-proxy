@@ -17,7 +17,6 @@ Purpose - a simple two module app with a oauth2 proxy in front
 * Follow the documentation of the [oauth-proxy](./oauth-proxy) component to configure Azure AD and the specifics for your applicaition.
 * Commit, Push, Rock & Roll
 
-
 ## A conceptual overview of the application.
 
 ![Conseptual diagram](./docs/smalldiagram.png) 
